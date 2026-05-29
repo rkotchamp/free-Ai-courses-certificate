@@ -2,7 +2,7 @@
 
 A curated list of free AI courses, learning paths, badges, and certificates. Course/provider names link to the official course page.
 
-> Goal: start with big technology companies and official sources, then expand weekly to other verified providers.
+> Goal: start with big technology companies and official sources, then expand daily to other verified providers.
 
 ## Big tech and official provider courses
 
@@ -21,6 +21,11 @@ A curated list of free AI courses, learning paths, badges, and certificates. Cou
 | [Kaggle Learn: Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning) | Neural network and deep learning basics with hands-on exercises. | Free course completion certificate |
 | [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/) | Practical short courses on generative AI, agents, prompting, RAG, and LLM applications. | Many courses are free; certificate availability can vary |
 | [Anthropic: Claude Courses](https://docs.anthropic.com/en/resources/courses) | Learn Claude, prompting, tool use, and building with Anthropic models. | Free learning resources; certificate not always provided |
+| [Hugging Face: Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction) | Practical course on AI agents, tools, workflows, smolagents, LlamaIndex, and LangGraph. | Free course; certificate/badge availability may vary |
+| [Hugging Face: LLM Course](https://huggingface.co/learn/llm-course/chapter1/1) | Open course covering transformers, NLP, LLMs, fine-tuning, and Hugging Face libraries. | Free course; certificate not always provided |
+| [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) | Foundational machine learning concepts, model training, evaluation, and practical ML exercises. | Free course; certificate not always provided |
+| [Harvard CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) | Search, knowledge, uncertainty, optimization, machine learning, neural networks, and language models. | Free course materials; verified certificate may require payment |
+| [NVIDIA DLI: Free Courses](https://resources.nvidia.com/en-us-nvidia-training/free-courses) | Official collection of NVIDIA free training resources across AI, accelerated computing, and data science. | Free courses; certificate/badge availability may vary by course |
 
 ## How to add a course
 
@@ -38,11 +43,11 @@ Suggested format:
 | Provider: Course Name | Official course link | What you learn | Free certificate/badge status |
 ```
 
-## Weekly update policy
+## Daily update policy
 
-This list should be updated weekly with well-verified links and sources.
+This list should be updated daily with well-verified links and sources.
 
-Weekly checklist:
+Daily checklist:
 
 - [ ] Search for new official free AI courses/certificates.
 - [ ] Check whether the course is already listed.
